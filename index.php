@@ -1,5 +1,5 @@
 <?php
 
-echo "Meu Primeiro Codigo PHP! ";
+echo "Alterando Codigo ";
 
 ?>
